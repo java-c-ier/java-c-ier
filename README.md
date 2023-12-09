@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimut</h1>
 <h3 align="center">A Passionate Web Developer currently pursuing B.Tech</h3>
 
-🔭 I’m currently working on a Zoological Survey of India Project.<br><br>🌱 I’m currently learning DSA and Full Stack Web Development.<br><br>👨‍💻 All of my projects are available at https://github.com/java-c-ier?tab=repositories<br><br>📫 You can reach me at jimutksahoo99@gmail.com<br><br>⚡ Fun fact - I'm a talkative introvert.
+🔭 I’m currently working as an intern at the Zoological Survey of India.<br><br>🌱 I’m currently learning DSA and Full Stack Web Development.<br><br>👨‍💻 All of my projects are available at https://github.com/java-c-ier?tab=repositories<br><br>📫 You can reach me at jimutksahoo99@gmail.com<br><br>⚡ Fun fact - I'm a talkative introvert.
 
 
 ## 🌐 Socials:
