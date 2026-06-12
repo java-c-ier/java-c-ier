@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20%2F%20Cloud%20Engineer&descSize=18&descAlignY=55&descAlign=50&v=2"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+to+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+for+Reliability" alt="Typing SVG" /></a>
 
 <br/>
 
