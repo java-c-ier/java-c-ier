@@ -71,8 +71,8 @@ I thrive at the intersection of **platform engineering** and **application deliv
 **`Containers & Orchestration`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48" alt="Helm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/containerd/containerd-original.svg" width="48" height="48" alt="Containerd"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" height="48" alt="Helm"/>
+<img src="https://img.shields.io/badge/Containerd-575757?style=flat-square&logoColor=white" height="48"/>
 
 <br/>
 
@@ -97,15 +97,15 @@ I thrive at the intersection of **platform engineering** and **application deliv
 **`Networking & Security`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="48" height="48" alt="Apache"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat"/>
 
 <br/>
 
 **`Databases & Storage`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL"/>
 
 <br/>
 
