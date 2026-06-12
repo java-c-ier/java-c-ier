@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50&v=2"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%99%EF%B8%8F+Building+Resilient+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD+%7C+Infrastructure+as+Code;%F0%9F%9A%80+Automating+Everything+Between+Code+and+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+to+Production" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -182,7 +182,7 @@ Configured and maintained a Nexus-based private container registry as the centra
 
 ### **DevOps Engineer** &nbsp;•&nbsp; Trisys IT Services Private Limited
 
-`2024 — Present`
+`2025 — Present`
 
 </div>
 
@@ -241,16 +241,6 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=java-c-ier&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -270,49 +260,6 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/java-c-ier/java-c-ier/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/java-c-ier/java-c-ier/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Kubernetes Networking (Cilium, Calico, Service Mesh)
-  - Cloud Security & Zero Trust Architecture
-  - Go for Cloud-Native Tooling
-
-Building:
-  - Production Kubernetes Platforms on Azure
-  - GitOps Pipelines with ArgoCD & Helm
-  - Infrastructure Automation with Terraform & Ansible
-
-Exploring:
-  - Platform Engineering & Internal Developer Portals
-  - eBPF for Observability
-  - Multi-Cloud Architecture Patterns
-
-Open To:
-  - DevOps / Platform Engineering Roles
-  - Cloud Architecture Consulting
-  - Open Source Infrastructure Projects
-  - Technical Writing & Knowledge Sharing
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-jimutksahoo99@gmail.com-0e7c6b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jimut-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Jimut_Kumar_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/java-c-ier"><img src="https://img.shields.io/badge/GitHub-java--c--ier-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jimuts--portfolio-1a8a7d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 </div>
 
