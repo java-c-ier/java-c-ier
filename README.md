@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:2196f3,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50&v=2"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%99%EF%B8%8F+Building+Resilient+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD+%7C+Infrastructure+as+Code;%F0%9F%9A%80+Automating+Everything+Between+Code+and+Production" alt="Typing SVG" /></a>
 
@@ -14,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-0d1117?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -34,10 +30,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ About Me
 
@@ -68,19 +60,15 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Open To`**
 
-<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open_Source_Collaboration-2196f3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure_Automation-1565c0?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source_Collaboration-1565c0?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure_Automation-1976d2?style=flat-square&logo=terraform&logoColor=white"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -88,60 +76,68 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Languages & Scripting`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,go,yaml,powershell&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,go,powershell&theme=dark" /></a>
+
+<br/>
 
 **`Containers & Orchestration`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge"/>
+
+<br/>
 
 **`Cloud & Infrastructure`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible&theme=dark" /></a>
 
+<br/>
+
 **`CI/CD & Automation`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd&theme=dark" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<br/>
 
 **`Monitoring & Observability`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+<br/>
 
 **`Networking & Security`**
 
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cert_Manager-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Cert_Manager-1565c0?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/MetalLB-0e7c6b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NSG_/_Firewall-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_NSG-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/>
+
+<br/>
 
 **`Databases & Storage`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /></a>
 
+<br/>
+
 **`OS & Tooling`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,vim,vscode&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vim,vscode&theme=dark" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nexus_Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- DEVOPS / CLOUD EXPERTISE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🧠 DevOps & Cloud Expertise
 
@@ -149,22 +145,18 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Kubernetes & Container Orchestration** | `████████████` **Expert** | AKS, kubeadm clusters, Helm charts, Ingress-Nginx, MetalLB, RBAC, pod security |
-| **Azure Cloud Architecture** | `████████████` **Expert** | VNets, NSGs, VMs, AKS, Azure DevOps, site-to-site VPN, load balancers, storage |
-| **CI/CD Pipeline Engineering** | `███████████░` **Advanced** | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines, multi-stage deployments |
-| **Infrastructure as Code** | `███████████░` **Advanced** | Terraform, Ansible, ARM templates, GitOps with ArgoCD |
-| **Monitoring & Observability** | `██████████░░` **Advanced** | Prometheus, Grafana, Loki, Fluent Bit, ELK, alerting pipelines |
-| **Networking & Security** | `██████████░░` **Advanced** | Fortinet firewalls, DNAT, VPN tunnels, TLS termination, cert-manager |
-| **Linux Systems Administration** | `████████████` **Expert** | Ubuntu, RHEL, systemd, shell scripting, troubleshooting, performance tuning |
-| **Docker & Containerization** | `████████████` **Expert** | Multi-stage builds, Nexus registries, image optimization, Docker Compose |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="20"/></a> **Kubernetes & Orchestration** | `████████████` **Expert** | AKS, kubeadm, Helm, Ingress-Nginx, MetalLB, RBAC, pod security |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="20"/></a> **Azure Cloud Architecture** | `████████████` **Expert** | VNets, NSGs, VMs, AKS, Azure DevOps, site-to-site VPN, storage |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="20"/></a> **CI/CD Pipeline Engineering** | `███████████░` **Advanced** | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="20"/></a> **Infrastructure as Code** | `███████████░` **Advanced** | Terraform, Ansible, ARM templates, GitOps with ArgoCD |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="20"/></a> **Monitoring & Observability** | `██████████░░` **Advanced** | Prometheus, Grafana, Loki, Fluent Bit, ELK, alerting |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="20"/></a> **Networking & Security** | `██████████░░` **Advanced** | Fortinet, DNAT, VPN tunnels, TLS termination, cert-manager |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="20"/></a> **Linux Systems Administration** | `████████████` **Expert** | Ubuntu, RHEL, systemd, shell scripting, performance tuning |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="20"/></a> **Docker & Containerization** | `████████████` **Expert** | Multi-stage builds, Nexus registries, image optimization |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -176,11 +168,11 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 | Aspect | Details |
 |:---|:---|
-| **Stack** | Kubernetes, Azure VMs, Helm, Ingress-Nginx, MetalLB, Cert-Manager |
+| **Stack** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,azure,helm&theme=dark" height="20"/></a> + Ingress-Nginx · MetalLB · Cert-Manager |
 | **Scale** | Multi-node cluster with horizontal pod autoscaling |
-| **Networking** | Private cluster with DNAT through Fortinet, site-to-site VPN to on-prem DC |
-| **Security** | NSG-locked subnets, no public IPs, RBAC, TLS termination, Paycom webhook isolation |
-| **Automation** | Helm-based deployments, CI/CD pipelines, automated certificate rotation |
+| **Networking** | Private cluster · DNAT via Fortinet · site-to-site VPN to on-prem DC |
+| **Security** | NSG-locked subnets · no public IPs · RBAC · TLS termination · webhook isolation |
+| **Automation** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="20"/></a> Helm-based deploys · automated cert rotation |
 | **Repository** | `Private — Enterprise Client Infrastructure` |
 
 Designed and deployed a fully private Kubernetes cluster on Azure for an enterprise client, integrating with on-premises resources via Fortinet-managed VPN tunnels. Engineered selective public exposure for webhook endpoints while maintaining strict network isolation for all other workloads.
@@ -188,18 +180,17 @@ Designed and deployed a fully private Kubernetes cluster on Azure for an enterpr
 </details>
 
 <details>
-<summary><b>🚀 Full-Stack Application Deployment Pipeline — React + Spring Boot</b></summary>
+<summary><b>🏗️ Full-Stack Application Deployment — React + Spring Boot on Azure</b></summary>
 <br/>
 
 > End-to-end deployment infrastructure for a React frontend and Spring Boot backend connecting to an on-premises MSSQL database through Azure's hybrid networking stack.
 
 | Aspect | Details |
 |:---|:---|
-| **Stack** | React, Spring Boot, MSSQL, Nginx, Ubuntu 24.04 LTS, Azure VM (Standard D4s v6) |
-| **Networking** | Private subnet (10.3.2.x), Fortinet site-to-site VPN (AZ-DC-FG-vnet) |
-| **Security** | No public IP, SSH locked to Citrix static IP, 30-day backup retention, soft delete |
-| **Infra** | Azure VM, protectedsubnet, static private IP, NSG ingress rules |
-| **Documentation** | Full Azure infrastructure document with architecture diagrams |
+| **Stack** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,spring,azure,nginx&theme=dark" height="20"/></a> · Ubuntu 24.04 LTS · Standard D4s v6 |
+| **Networking** | Private subnet 10.3.2.x · Fortinet site-to-site VPN (AZ-DC-FG-vnet) |
+| **Security** | No public IP · SSH locked to Citrix static IP · 30-day backup · soft delete |
+| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="20"/></a> protectedsubnet · static private IP · NSG ingress rules |
 | **Repository** | `Private — Client Deliverable` |
 
 Built and documented the complete Azure infrastructure for a client-facing application, including VM provisioning, network security configuration, backup policies, and cross-site database connectivity through existing VPN infrastructure.
@@ -214,10 +205,10 @@ Built and documented the complete Azure infrastructure for a client-facing appli
 
 | Aspect | Details |
 |:---|:---|
-| **Stack** | Nexus Repository OSS, Docker, Nginx reverse proxy |
+| **Stack** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx&theme=dark" height="20"/></a> + Nexus Repository OSS |
 | **Scale** | Centralized registry serving multiple deployment targets |
-| **Security** | Separate pull (6001) / push ports, internal network only, authenticated access |
-| **Automation** | Integrated with Jenkins/CI pipelines for automated image builds and promotion |
+| **Security** | Pull port 6001 / push separated · internal network only · authenticated |
+| **Automation** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="20"/></a> Automated image builds and promotion via CI pipeline |
 | **Repository** | `Private — Internal Tooling` |
 
 Configured and maintained a Nexus-based private container registry as the central artifact store for all containerized applications, with strict port-based access control and CI/CD integration.
@@ -225,10 +216,6 @@ Configured and maintained a Nexus-based private container registry as the centra
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- EXPERIENCE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
 
@@ -244,34 +231,25 @@ Configured and maintained a Nexus-based private container registry as the centra
 
 Responsible for designing, deploying, and managing cloud infrastructure and CI/CD pipelines for client-facing enterprise applications on Azure. Collaborating with cross-functional teams including developers, network administrators, and client-side stakeholders to deliver production-ready infrastructure.
 
-- Provisioned and hardened Azure VMs, VNets, subnets, and NSGs for multi-client environments
-- Deployed and managed Kubernetes clusters with Helm, Ingress-Nginx, and MetalLB for private and hybrid workloads
-- Engineered CI/CD pipelines using Jenkins and Azure DevOps for automated build, test, and deployment workflows
-- Coordinated with network teams for Fortinet firewall rules, DNAT configurations, and VPN tunnel routing
-- Authored comprehensive infrastructure documentation for client handoff and audit compliance
-- Managed Nexus Repository for private Docker image hosting and artifact lifecycle management
-- Implemented backup policies, disaster recovery configurations, and monitoring stacks
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="16"/></a> Provisioned and hardened Azure VMs, VNets, subnets, and NSGs for multi-client environments
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,helm&theme=dark" height="16"/></a> Deployed and managed Kubernetes clusters with Helm, Ingress-Nginx, and MetalLB
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark" height="16"/></a> Engineered CI/CD pipelines for automated build, test, and deployment workflows
+- <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square"/> Coordinated DNAT, Fortinet firewall rules, and VPN tunnel routing with network teams
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" height="16"/></a> Infrastructure as Code for repeatable, auditable environment provisioning
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="16"/></a> Managed Nexus Repository for private Docker image hosting and artifact lifecycle
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" height="16"/></a> Implemented monitoring stacks, backup policies, and disaster recovery configs
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,azure,terraform,jenkins,docker,helm,nginx,linux,git,ansible&theme=dark" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Achievements
 
@@ -279,71 +257,51 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 
 | Recognition | Details |
 |:---:|:---|
-| 🏗️ **Enterprise Infrastructure Delivery** | Successfully delivered production Kubernetes infrastructure for enterprise clients on Azure |
-| 📄 **Technical Documentation Excellence** | Authored comprehensive Azure infrastructure documents meeting client audit and compliance standards |
-| 🔐 **Security-First Architecture** | Designed zero-public-IP cloud environments with Fortinet VPN and NSG-based micro-segmentation |
-| ⚡ **Pipeline Automation** | Reduced deployment time with fully automated CI/CD pipelines from code commit to production |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="20"/></a> **Enterprise Infrastructure Delivery** | Successfully delivered production Kubernetes infrastructure for enterprise clients on Azure |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="20"/></a> **Technical Documentation Excellence** | Authored comprehensive Azure infrastructure documents meeting client audit and compliance standards |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="20"/></a> **Security-First Architecture** | Designed zero-public-IP cloud environments with Fortinet VPN and NSG-based micro-segmentation |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="20"/></a> **Pipeline Automation** | Reduced deployment time with fully automated CI/CD pipelines from code commit to production |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/java-c-ier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=java-c-ier&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=2196f3&text_color=c9d1d9&ring_color=0e7c6b&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-c-ier&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=java-c-ier&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=2196f3&text_color=c9d1d9&ring_color=0e7c6b&count_private=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-c-ier&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8&theme=default"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/java-c-ier">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=java-c-ier&hide_border=true&background=0d1117&stroke=0e7c6b&ring=2196f3&fire=64ffda&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=8b949e&currStreakNum=64ffda&sideNums=2196f3"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=java-c-ier&hide_border=true&background=0d1117&stroke=0e7c6b&ring=2196f3&fire=64ffda&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=8b949e&currStreakNum=64ffda&sideNums=2196f3"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=java-c-ier&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=java-c-ier&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION ACTIVITY SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/java-c-ier">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=java-c-ier&theme=react-dark&bg_color=0d1117&color=64ffda&line=2196f3&point=c9d1d9&area=true&area_color=0e7c6b&hide_border=true"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=java-c-ier&bg_color=0d1117&color=64ffda&line=2196f3&point=64ffda&area=true&area_color=0e7c6b&hide_border=true&theme=react-dark"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -358,10 +316,6 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CURRENT FOCUS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Focus
 
@@ -390,10 +344,6 @@ Open To:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 ## 🤝 Connect
 
 <div align="center">
@@ -410,10 +360,6 @@ Open To:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <br/>
@@ -422,6 +368,6 @@ Open To:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:2196f3,100:64ffda&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=120&section=footer&v=2"/>
 
 </div>
