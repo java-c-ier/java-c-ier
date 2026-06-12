@@ -71,9 +71,8 @@ I thrive at the intersection of **platform engineering** and **application deliv
 **`Containers & Orchestration`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48" alt="Helm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/containerd/containerd-original.svg" width="48" height="48" alt="Containerd"/>
 
 <br/>
 
@@ -92,25 +91,21 @@ I thrive at the intersection of **platform engineering** and **application deliv
 **`Monitoring & Observability`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 <br/>
 
 **`Networking & Security`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat"/>
 
 <br/>
 
 **`Databases & Storage`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL"/>
 
 <br/>
 
