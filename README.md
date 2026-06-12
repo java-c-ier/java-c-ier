@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED HEADER SECTION -->
@@ -29,7 +29,7 @@
 &nbsp;
 <a href="https://github.com/java-c-ier?tab=followers"><img src="https://img.shields.io/github/followers/java-c-ier?style=for-the-badge&color=5b21b6&labelColor=1a1b27&logo=github&label=Followers"/></a>
 &nbsp;
-<a href="https://github.com/java-c-ier?tab=repositories"><img src="https://img.shields.io/github/stars/java-c-ier?style=for-the-badge&color=5b21b6&labelColor=1a1b27&logo=github&label=Stars"/></a>
+<a href="https://github.com/java-c-ier?tab=repositories"><img src="https://img.shields.io/github/stars/java-c-ier?style=for-the-badge&color=5b21b6&labelColor=1a1b27&logo=github&label=Stars&affiliations=OWNER"/></a>
 
 </div>
 
@@ -39,7 +39,11 @@
 <!-- ABOUT SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
+## ⚡ About Me
+
+<br/>
+
+<div align="center">
 
 ```yaml
 name: Jimut Kumar Sahoo
@@ -47,6 +51,10 @@ role: DevOps Engineer
 location: Bengaluru, India
 education: B.Tech — Parala Maharaja Engineering College
 ```
+
+</div>
+
+<br/>
 
 I'm a **DevOps & Cloud Infrastructure Engineer** specializing in building, automating, and securing production-grade cloud environments. With deep expertise in **Kubernetes orchestration**, **Azure cloud architecture**, and **CI/CD pipeline engineering**, I design infrastructure that is resilient, scalable, and cost-optimized.
 
@@ -74,7 +82,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 <!-- TECH STACK SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -135,7 +143,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 <!-- DEVOPS / CLOUD EXPERTISE SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;DevOps & Cloud Expertise
+## 🧠 DevOps & Cloud Expertise
 
 <div align="center">
 
@@ -158,7 +166,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>⚙️ Enterprise Kubernetes Platform — Azure Private Cluster</b></summary>
@@ -222,7 +230,7 @@ Configured and maintained a Nexus-based private container registry as the centra
 <!-- EXPERIENCE SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Experience
+## 💼 Experience
 
 <div align="center">
 
@@ -231,6 +239,8 @@ Configured and maintained a Nexus-based private container registry as the centra
 `2024 — Present`
 
 </div>
+
+<br/>
 
 Responsible for designing, deploying, and managing cloud infrastructure and CI/CD pipelines for client-facing enterprise applications on Azure. Collaborating with cross-functional teams including developers, network administrators, and client-side stakeholders to deliver production-ready infrastructure.
 
@@ -263,7 +273,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- ACHIEVEMENTS SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -282,7 +292,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- GITHUB ANALYTICS SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -305,7 +315,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- GITHUB TROPHIES SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -319,7 +329,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- CONTRIBUTION ACTIVITY SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -335,7 +345,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- CONTRIBUTION SNAKE SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -353,7 +363,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <!-- CURRENT FOCUS SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🎯 &nbsp;Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -384,7 +394,7 @@ Open To:
 <!-- CONNECT SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🤝 &nbsp;Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -415,4 +425,3 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:5b21b6,75:7c3aed,100:a78bfa&height=120&section=footer"/>
 
 </div>
-]]>
