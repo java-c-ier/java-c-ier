@@ -82,7 +82,8 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Containers & Orchestration`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=helm&theme=dark" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge"/>
 
