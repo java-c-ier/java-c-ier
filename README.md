@@ -111,19 +111,21 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Networking & Security`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx,apache,tomcat&theme=dark" /></a>
 
 <br/>
 
 **`Databases & Storage`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/>
 
 **`OS & Tooling`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,redhat,windows,git,github,vscode&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,debian,redhat,windows,git,vscode&theme=dark" /></a>
 
 </div>
 
