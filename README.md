@@ -117,25 +117,6 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 DevOps & Cloud Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="20"/></a> **Kubernetes & Orchestration** | `████████████` **Expert** | AKS, kubeadm, Helm, Ingress-Nginx, MetalLB, RBAC, pod security |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="20"/></a> **Azure Cloud Architecture** | `████████████` **Expert** | VNets, NSGs, VMs, AKS, Azure DevOps, site-to-site VPN, storage |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="20"/></a> **CI/CD Pipeline Engineering** | `███████████░` **Advanced** | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="20"/></a> **Infrastructure as Code** | `███████████░` **Advanced** | Terraform, Ansible, ARM templates, GitOps with ArgoCD |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="20"/></a> **Monitoring & Observability** | `██████████░░` **Advanced** | Prometheus, Grafana, Loki, Fluent Bit, ELK, alerting |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="20"/></a> **Networking & Security** | `██████████░░` **Advanced** | Fortinet, DNAT, VPN tunnels, TLS termination, cert-manager |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="20"/></a> **Linux Systems Administration** | `████████████` **Expert** | Ubuntu, RHEL, systemd, shell scripting, performance tuning |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="20"/></a> **Docker & Containerization** | `████████████` **Expert** | Multi-stage builds, Nexus registries, image optimization |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🚀 Featured Projects
 
 <details>
