@@ -35,18 +35,6 @@
 
 <br/>
 
-<div align="center">
-
-```yaml
-name: Jimut Kumar Sahoo
-role: DevOps Engineer
-location: Bengaluru, India
-education: B.Tech — Parala Maharaja Engineering College
-```
-
-</div>
-
-<br/>
 
 I'm a **DevOps & Cloud Infrastructure Engineer** specializing in building, automating, and securing production-grade cloud environments. With deep expertise in **Kubernetes orchestration**, **Azure cloud architecture**, and **CI/CD pipeline engineering**, I design infrastructure that is resilient, scalable, and cost-optimized.
 
@@ -111,7 +99,10 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Networking & Security`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx,apache,tomcat&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 
 <br/>
 
@@ -119,7 +110,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/>
 
