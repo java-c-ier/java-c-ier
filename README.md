@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50&v=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20%2F%20Cloud%20Engineer&descSize=18&descAlignY=55&descAlign=50&v=2"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+to+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+to+Production" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -43,6 +43,18 @@ My engineering philosophy centers on **infrastructure as code**, **zero-downtime
 I thrive at the intersection of **platform engineering** and **application delivery**, bridging the gap between development teams and production environments with robust automation and observability.
 
 <br/>
+
+<div align="center">
+
+**`Open To`**
+
+<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source_Collaboration-1565c0?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure_Automation-1976d2?style=flat-square&logo=terraform&logoColor=white"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
