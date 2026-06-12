@@ -210,10 +210,10 @@ Configured and maintained a Nexus-based private container registry as the centra
 Responsible for designing, deploying, and managing cloud infrastructure and CI/CD pipelines for client-facing enterprise applications on Azure. Collaborating with cross-functional teams including developers, network administrators, and client-side stakeholders to deliver production-ready infrastructure.
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="16"/></a> Provisioned and hardened Azure VMs, VNets, subnets, and NSGs for multi-client environments
-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,helm&theme=dark" height="16"/></a> Deployed and managed Kubernetes clusters with Helm, Ingress-Nginx, and MetalLB
-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark" height="16"/></a> Engineered CI/CD pipelines for automated build, test, and deployment workflows
-- <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square"/> Coordinated DNAT, Fortinet firewall rules, and VPN tunnel routing with network teams
-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" height="16"/></a> Infrastructure as Code for repeatable, auditable environment provisioning
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="16"/></a> Deployed and managed Kubernetes clusters with Helm, Ingress-Nginx, and MetalLB
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,github&theme=dark" height="16"/></a> Engineered CI/CD pipelines for automated build, test, and deployment workflows
+- Coordinated DNAT, Fortinet firewall rules, and VPN tunnel routing with network teams
+- Infrastructure as Code for repeatable, auditable environment provisioning
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="16"/></a> Managed Nexus Repository for private Docker image hosting and artifact lifecycle
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" height="16"/></a> Implemented monitoring stacks, backup policies, and disaster recovery configs
 
@@ -221,9 +221,8 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,azure,terraform,jenkins,docker,helm,nginx,linux,git,ansible&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,azure,jenkins,docker,nginx,ubuntu,git,github,grafana&theme=dark" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" height="48" alt="Helm"/>
 
 </div>
 
