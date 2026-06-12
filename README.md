@@ -44,17 +44,6 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 <br/>
 
-<div align="center">
-
-**`Open To`**
-
-<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source_Collaboration-1565c0?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Infrastructure_Automation-1976d2?style=flat-square&logo=terraform&logoColor=white"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
