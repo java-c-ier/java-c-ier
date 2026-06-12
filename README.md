@@ -4,32 +4,32 @@
 <!-- ANIMATED HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:5b21b6,75:7c3aed,100:a78bfa&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:2196f3,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%99%EF%B8%8F+Building+Resilient+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD+%7C+Infrastructure+as+Code;%F0%9F%9A%80+Automating+Everything+Between+Code+and+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%99%EF%B8%8F+Building+Resilient+Cloud+Infrastructure+at+Scale;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD+%7C+Infrastructure+as+Code;%F0%9F%9A%80+Automating+Everything+Between+Code+and+Production" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Parala_Maharaja_Engineering_College-7c3aed?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Parala_Maharaja_Engineering_College-0e7c6b?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Bengaluru,_India-1a1b27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5b21b6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e7c6b?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jimut-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a8a7d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/java-c-ier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=java-c-ier&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=java-c-ier&style=for-the-badge&color=0e7c6b&label=PROFILE+VIEWS"/>
 &nbsp;
-<a href="https://github.com/java-c-ier?tab=followers"><img src="https://img.shields.io/github/followers/java-c-ier?style=for-the-badge&color=5b21b6&labelColor=1a1b27&logo=github&label=Followers"/></a>
+<a href="https://github.com/java-c-ier?tab=followers"><img src="https://img.shields.io/github/followers/java-c-ier?style=for-the-badge&color=1a8a7d&labelColor=0d1117&logo=github&label=Followers"/></a>
 &nbsp;
-<a href="https://github.com/java-c-ier?tab=repositories"><img src="https://img.shields.io/github/stars/java-c-ier?style=for-the-badge&color=5b21b6&labelColor=1a1b27&logo=github&label=Stars&affiliations=OWNER"/></a>
+<a href="https://github.com/java-c-ier?tab=repositories"><img src="https://img.shields.io/github/stars/java-c-ier?style=for-the-badge&color=1a8a7d&labelColor=0d1117&logo=github&label=Stars&affiliations=OWNER"/></a>
 
 </div>
 
@@ -68,11 +68,11 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Open To`**
 
-<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-5b21b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kubernetes_Consulting-4c1d95?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open_Source_Collaboration-6d28d9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure_Automation-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Source_Collaboration-2196f3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Infrastructure_Automation-1565c0?style=flat-square"/>
 
 </div>
 
@@ -120,7 +120,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cert_Manager-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/MetalLB-5b21b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MetalLB-0e7c6b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NSG_/_Firewall-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
 
@@ -297,14 +297,14 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <div align="center">
 
 <a href="https://github.com/java-c-ier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=java-c-ier&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-c-ier&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=java-c-ier&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=2196f3&text_color=c9d1d9&ring_color=0e7c6b&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-c-ier&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/java-c-ier">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=java-c-ier&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=java-c-ier&hide_border=true&background=0d1117&stroke=0e7c6b&ring=2196f3&fire=64ffda&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=8b949e&currStreakNum=64ffda&sideNums=2196f3"/>
 </a>
 
 </div>
@@ -319,7 +319,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=java-c-ier&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=java-c-ier&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 </div>
 
@@ -334,7 +334,7 @@ Responsible for designing, deploying, and managing cloud infrastructure and CI/C
 <div align="center">
 
 <a href="https://github.com/java-c-ier">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=java-c-ier&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=5b21b6&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=java-c-ier&theme=react-dark&bg_color=0d1117&color=64ffda&line=2196f3&point=c9d1d9&area=true&area_color=0e7c6b&hide_border=true"/>
 </a>
 
 </div>
@@ -398,13 +398,13 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-jimutksahoo99@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-jimutksahoo99@gmail.com-0e7c6b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jimut-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Jimut_Kumar_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/java-c-ier"><img src="https://img.shields.io/badge/GitHub-java--c--ier-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jimuts--portfolio-5b21b6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jimuts--portfolio-1a8a7d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
 </div>
 
@@ -422,6 +422,6 @@ Open To:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:5b21b6,75:7c3aed,100:a78bfa&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:2196f3,100:64ffda&height=120&section=footer"/>
 
 </div>
