@@ -2,21 +2,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021b1a,25:0d3b3c,50:0e7c6b,75:1565c0,100:64ffda&height=220&section=header&text=Jimut%20Kumar%20Sahoo&fontSize=42&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=DevOps%20%2F%20Cloud%20Engineer&descSize=18&descAlignY=55&descAlign=50&v=2"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure;%F0%9F%94%A7+Kubernetes+%7C+Cloud+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+for+Reliability" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=50&lines=%E2%9A%99%EF%B8%8F+Building+Cloud+Infrastructure;%F0%9F%94%A7+Kubernetes+%7C+Azure+%7C+CI%2FCD;%F0%9F%9A%80+Automating+Code+to+Production" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Parala_Maharaja_Engineering_College-0e7c6b?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
+<br/><br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-0d1117?style=for-the-badge"/>
 
+<br/><br/>
 
 <a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e7c6b?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jimut-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a8a7d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/java-c-ier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=java-c-ier&style=for-the-badge&color=0e7c6b&label=PROFILE+VIEWS"/>
 &nbsp;
@@ -40,6 +43,18 @@ My engineering philosophy centers on **infrastructure as code**, **zero-downtime
 I thrive at the intersection of **platform engineering** and **application delivery**, bridging the gap between development teams and production environments with robust automation and observability.
 
 <br/>
+
+<div align="center">
+
+**`Open To`**
+
+<img src="https://img.shields.io/badge/DevOps_Engineering_Roles-0e7c6b?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture_Projects-1a8a7d?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes_Consulting-0d3b3c?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source_Collaboration-1565c0?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure_Automation-1976d2?style=flat-square&logo=terraform&logoColor=white"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
