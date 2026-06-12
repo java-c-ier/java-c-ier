@@ -76,15 +76,15 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Languages & Scripting`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,go,powershell&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,java,c,js,html,css,react&theme=dark" /></a>
 
 <br/>
 
 **`Containers & Orchestration`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=helm&theme=dark" /></a>
 &nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge"/>
 
 <br/>
@@ -97,7 +97,7 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`CI/CD & Automation`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,bitbucket,argocd&theme=dark" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
@@ -126,13 +126,13 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Databases & Storage`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,oracle&theme=dark" /></a>
 
 <br/>
 
 **`OS & Tooling`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vim,vscode&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,redhat,windows,git,github,vscode,vim,postman&theme=dark" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Nexus_Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
 
