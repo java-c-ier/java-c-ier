@@ -91,15 +91,13 @@ I thrive at the intersection of **platform engineering** and **application deliv
 
 **`Cloud & Infrastructure`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws&theme=dark" /></a>
 
 <br/>
 
 **`CI/CD & Automation`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,bitbucket,argocd&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,github,bitbucket&theme=dark" /></a>
 
 <br/>
 
@@ -108,33 +106,24 @@ I thrive at the intersection of **platform engineering** and **application deliv
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 
 <br/>
 
 **`Networking & Security`**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Cert_Manager-1565c0?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/MetalLB-0e7c6b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_NSG-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/>
 
 <br/>
 
 **`Databases & Storage`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,oracle&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" /></a>
 
 <br/>
 
 **`OS & Tooling`**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,redhat,windows,git,github,vscode,vim,postman&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Nexus_Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,redhat,windows,git,github,vscode&theme=dark" /></a>
 
 </div>
 
