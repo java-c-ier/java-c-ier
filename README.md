@@ -8,18 +8,15 @@
 
 <img src="https://img.shields.io/badge/B.Tech-Parala_Maharaja_Engineering_College-0e7c6b?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-0d1117?style=for-the-badge"/>
 
-<br/><br/>
 
 <a href="https://jimuts-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e7c6b?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jimut-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jimutksahoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a8a7d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/java-c-ier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=java-c-ier&style=for-the-badge&color=0e7c6b&label=PROFILE+VIEWS"/>
 &nbsp;
